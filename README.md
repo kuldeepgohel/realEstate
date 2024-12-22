@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 adding animation using motion in this project
 adding send the email with form details using web3 emails
+
+live demo :-https://realestatebykd.netlify.app/
